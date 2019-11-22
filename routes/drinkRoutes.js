@@ -1,11 +1,27 @@
 const router = require("express").Router();
 const Cocktail = require("../models/Cocktail");
+const drinkData = require("../data/drinkData");
+const drinks = require("../data/Drinks");
 
-router.get("/", async (req, res) => {
+router.get("/drink/:name", async (req, res) => {
     try {
-        res.send("first route!");
+        console.log(req.params.name);
+        const cocktail = await Cocktail.find({
+            "ingredients": { $in: req.params.name }
+        })
+        res.send(cocktail);
     } catch (error) {
         res.send(error);
+    }
+})
+
+router.post("/multiple-drinks", async (req, res) => {
+    try {
+        console.log("working");
+        res.send(drinks);
+        return Cocktail.insertMany(drinks)             
+    } catch (error) {
+        console.log(error);
     }
 })
 
@@ -19,7 +35,7 @@ router.post("/drinks", async (req, res) => {
         cocktail.instructions = instructions; 
         cocktail.image = image; 
         cocktail.description = description;
-        await cocktail.save(function(err) {
+        await cocktail.save(err => {
             if (err) {
                 console.log(err);
                 return 
