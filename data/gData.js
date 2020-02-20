@@ -76,12 +76,3 @@ const drinks =
       "image": '',
       "description": "If Zambo were a country, this would be its national drink."
   },
-  ZAMBODIAN
-  If Zambo were a country, this would be its national drink.
-  1/2 ounce vodka
-  1/2 ounce blackberry brandy
-  1/2 ounce pineapple juice
-  1. Fill a cocktail mixer with ice.
-  2. Add vodka, blackberry brandy, and pineapple juice.
-  3. Shake.
-  4. Strain into a shot glass.
