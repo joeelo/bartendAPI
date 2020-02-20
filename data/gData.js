@@ -43,3 +43,45 @@ const drinks =
       "description": "Let your eyes roll back in your head and get ready for some
       voodoo loving. Only one per customer, please."
   },
+  {
+      "name": "ZaZa",
+      "ingredients": {
+        'gin': '1.75 ounces'',
+        'red Dubonnet': '.75 ounce',
+        'Jamaican rum': '1 ounce',
+        'cherry brandy': '4 dashes',
+        'apricot brandy': '4 dashes',
+        'papaya juice': '1 dash',
+        '150-proof rum': '.5 ounce'
+      },
+      "instructions": "  1. Fill cocktail shaker with ice.
+        2. Add gin and Dubonnet.
+        3. Stir.
+        4. Strain into a cocktail glass",
+      "image": '',
+      "description": "Made famous by the Astoria Hotel, this drink was a popular Depression-era cocktail."
+  },
+  {
+      "name": "Zambodian",
+      "ingredients": {
+        'vodka': '.5 ounce'',
+        'rblackberry brandy': '.5 ounce',
+        'Jamaican rum': '1 ounce',
+        'pineapple juice': '.5 ounce'
+      },
+      "instructions": "1. Fill a cocktail mixer with ice.
+        2. Add vodka, blackberry brandy, and pineapple juice.
+        3. Shake.
+        4. Strain into a shot glass.",
+      "image": '',
+      "description": "If Zambo were a country, this would be its national drink."
+  },
+  ZAMBODIAN
+  If Zambo were a country, this would be its national drink.
+  1/2 ounce vodka
+  1/2 ounce blackberry brandy
+  1/2 ounce pineapple juice
+  1. Fill a cocktail mixer with ice.
+  2. Add vodka, blackberry brandy, and pineapple juice.
+  3. Shake.
+  4. Strain into a shot glass.
