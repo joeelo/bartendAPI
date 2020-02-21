@@ -46,7 +46,7 @@ const drinks =
   {
       "name": "ZaZa",
       "ingredients": {
-        'gin': '1.75 ounces'',
+        'gin': '1.75 ounces',
         'red Dubonnet': '.75 ounce',
         'Jamaican rum': '1 ounce',
         'cherry brandy': '4 dashes',
@@ -75,4 +75,68 @@ const drinks =
         4. Strain into a shot glass.",
       "image": '',
       "description": "If Zambo were a country, this would be its national drink."
+  },
+  {
+      "name": "Yo Ho Ho",
+      "ingredients": {
+        'lime juice': 'half a lime',
+        'light rum': '1.5 ounces',
+        'cola soda': '1'
+      },
+      "instructions": "1. Squeeze lime juice into a zombie glass.
+      2. Drop in lime.
+      3. Add rum.
+      4. Add three ice cubes.
+      5. Stir gently",
+      "image": '',
+      "description": "And a bottle of rum for the pirate with the black eye patch,
+      please."
+  },
+  {
+      "name": "Yellow Cake",
+      "ingredients": {
+        'vanilla vodka': '1/3 ounce',
+        'triple sec': '1/3 ounce',
+        'pineapple juice': '1/3 ounce'
+      },
+      "instructions": "  1. Fill a cocktail mixer with ice.
+        2. Add vanilla vodka, triple sec, and pineapple juice.
+        3. Shake.
+        4. Strain into a shot glass.",
+      "image": '',
+      "description": "Not the uranium, silly. The drink!"
+  },
+  {
+      "name": "Yankee Doodle Cocktail",
+      "ingredients": {
+        'gin': '1.75 ounces',
+        'cream': '.25 ounce',
+        'lemon juice': '.25 ounce',
+        'crème de yvette': '.25 ounce',
+        'papaya juice': '1 dash',
+        '150-proof rum': '.5 ounce'
+      },
+      "instructions": "1. Fill cocktail shaker with ice.
+      2. Add gin, cream, lemon juice, and crème de Yvette.
+      3. Shake.
+      4. Strain into a cocktail glass.,
+      "image": '',
+      "description": "One word: Dandy"
+  },
+  {
+      "name": "Xylophone",
+      "ingredients": {
+        'tequila': '1 ounce',
+        'crème de cacao': '.5 ounce',
+        'sugar syrup': '.5 ounce',
+        'cream': '1 ounce',
+        'ice': '3 ounces'
+      },
+      "instructions": "1. Pour tequila, crème de cacao, sugar syrup, cream,
+      and ice into a blender.
+      2. Blend until smooth.
+      3. Pour into goblet.
+      4. Garnish with a cherry.",
+      "image": '',
+      "description": "Finally: The reward for all those summers at band camp."
   },
