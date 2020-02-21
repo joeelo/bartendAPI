@@ -140,3 +140,78 @@ const drinks =
       "image": '',
       "description": "Finally: The reward for all those summers at band camp."
   },
+  {
+      "name": "Woo Woo",
+      "ingredients": {
+        'vodka': '.5 ounce',
+        'peach schnapps': '.5 ounce',
+        'cranberry juice': '.5 ounce'
+      },
+      "instructions": "1. Fill a cocktail shaker with ice.
+      2. Add vodka, peach schnapps, and cranberry juice.
+      3. Stir.
+      4. Strain into a shot glass.",
+      "image": '',
+      "description": "Hard to order this one with a straight face, but give it a try.
+      Well worth the bartender’s raised eyebrow."
+  },
+  {
+      "name": "Wombat",
+      "ingredients": {
+        'dark rum': '2 ounces',
+        'strawberry liqueur': '.5 ounce',
+        'orange juice': '2 ounces',
+        'pineapple juice': '3 ounces',
+        'fresh watermelon juice': '6 ounces'
+      },
+      "instructions": "1. Fill a cocktail shaker with dark rum, strawberry
+      liqueur, orange juice, pineapple juice, and watermelon juice.
+      3. Shake.
+      4. Pour into shot glasses.
+      (Serves 4)",
+      "image": '',
+      "description": "Fun Fact: The wombat is the world’s largest burrowing
+      mammal—and now a delicious beverage."
+  },
+  {
+      "name": "Witch's Brew",
+      "ingredients": {
+        'Strega': '2 ounces',
+        'crème de menthe': '.5 ounce',
+        'lemon juice': '1 ounce',
+        'orange juice': '1 ounce',
+        'Pernod': '3-4 drops',
+        'fresh mint': '1 pinch'
+      },
+      "instructions": "1. Fill cocktail shaker with ice.
+        2. Add Strega, crème de menthe, and juices.
+        3. Shake.
+        4. Strain into a collins glass with shaved ice.
+        5. Float three or four drops Pernod.
+        6. Decorate with fresh mint.",
+      "image": '',
+      "description": "The popular year-around drink in Salem. Bottoms up, Esmeralda."
+    },
+    {
+        "name": "Winter Sparkler",
+        "ingredients": {
+          'lemon juice': '1 lemon',
+          'lime juice': '1 lime',
+          'Southern Comfort': '8 ounces',
+          'peach schnapps': '8 ounces',
+          'brut champagne': '2 fifths',
+          'peaches': '3 peaches',
+          'whole cloves': '30',
+          'ice block': '1'
+        },
+        "instructions": "1. Place ice in punch bowl.
+        2. Add juices.
+        3. Add peach schnapps and Southern Comfort.
+        4. Stir.
+        5. Stud peach skins with cloves and add to bowl.
+        6. Add champagne.
+        7. Stir gently",
+        "image": '',
+        "description": "A bubbly concoction designed to lighten up any family
+        festivity."
+    },
