@@ -439,3 +439,139 @@ const drinks =
       'image': '',
       'description': 'The Popeye of drinks. It am what it am.'
     },
+    { "name": "Whiskey Daisy",
+      "ingredients": {
+        'blended whiskey': '2 ounces',
+        'powdered sugar': '.5 teaspoon',
+        'grenadine': '1 teaspoon',
+        'lemon juice': '.5  lemon'
+      },
+      "instructions": "1. Fill cocktail shaker with ice.
+          2. Add whiskey, powdered sugar, grenadine, and
+          lemon juice.
+          3. Shake.
+          4. Strain into a beer mug with one ice cube.
+          5. Garnish with a cherry and an orange slice.",
+      'image': '',
+      'description': 'Oopsy Daisy! I’m drunk!'
+    },
+    { "name": "Wheel of Fortune",
+      "ingredients": {
+        'sambuca': '1.5 ounces',
+        'brandy': '1 ounce'
+      },
+      "instructions": "1. Fill cocktail shaker with ice.
+          2. Add sambuca and brandy.
+          3. Stir.
+          4. Strain into a cocktail glass.
+          5. Garnish with a lemon twist.",
+      'image': '',
+      'description': 'Raise a glass to Lady Luck and hope she bestows a free
+      spin on the golden wheel.'
+    },
+    { "name": "Wembley Martini",
+      "ingredients": {
+        'gin': '3 ounces',
+        'dry vermouth': '.5 ounce',
+        'apricot brandy': '1 teaspoon',
+        'Calvados': '1 teaspoon'
+      },
+      "instructions": "1. Fill cocktail shaker with ice.
+      2. Add gin, vermouth, apricot brandy, and Calvados.
+      3. Shake.
+      4. Strain into a chilled martini glass.
+      5. Garnish with a lemon twist.",
+      'image': '',
+      'description': 'Perhaps the reason soccer hooligans often riot at Wembley
+      is that the bartender has run out of this tasty treat? A
+      promising theory.'
+    },
+    { "name": "Wedding Belle",
+      "ingredients": {
+        'gin': '.75 ounce',
+        'red Dubonnet': '.75 ounce',
+        'orange juice': '.5 ounce',
+        'cherry brandy': '.5 ounce'
+      },
+      "instructions": "1. Fill cocktail shaker with ice.
+      2. Add gin, Dubonnet, orange juice, and cherry
+      brandy.
+      3. Shake.
+      4. Strain into a cocktail glass.",
+      'image': '',
+      'description': 'A true southern belle serves this at each of her weddings.'
+    },
+    { "name": "Wassail",
+      "ingredients": {
+        'apple cider': '2 quarts',
+        'brown sugar': '.5 cup',
+        'lemon juice': '1 1/3 cup',
+        'cinammon sticks': '6 sticks',
+        'whole cloves': '12 whole cloves',
+        'whole allspice': '12 whole allspice',
+        'nutmeg': '1.5 teaspoons',
+        'dry sherry': '2 fifths'
+      },
+      "instructions": "1. Place apple cider, brown sugar, lemon juice, and
+      all spices in a pot.
+      2. Bring to a boil.
+      3. Cover and simmer for 20 minutes.
+      4. Remove spices from mixture.
+      5. Add sherry.
+      6. Heat until just below boiling.
+      7. Fill a punch bowl with boiling water.
+      8. Let stand for one minute to heat bowl.
+      9. Pour water out of punch bowl.
+      10. Pour wassail mixture from stove to punch bowl.
+      11. Garnish with orange or lemon slices studded
+      with cloves.
+      (Serves 25)",
+      'image': '',
+      'description': "If some yells 'wassail' during the holidays, the proper
+      reply is 'be in good health.'"
+    },
+    { "name": "Washington",
+      "ingredients": {
+        'dry vermouth': '1.5 ounces',
+        'brandy': '.75 ounce',
+        'sugar syrup': '2 dashes',
+        'Angostura bitters': '2 dashes'
+      },
+      "instructions": "1. Fill cocktail shaker with ice.
+      2. Add vermouth, brandy, sugar syrup, and bitters.
+      3. Stir.
+      4. Strain into a chilled cocktail glass.",
+      'image': '',
+      'description': 'Barry Goldwater said it perfectly: “If everybody in this town
+      connected with politics had to leave town because of chasing women and drinking, you would have no government.”'
+    },
+    { "name": "Warsaw",
+      "ingredients": {
+        'gin': '1.5 ounces',
+        'apple brandy': '1 ounce',
+        'sweet vermouth': '1 ounce',
+        'yellow Chartreuse': '1 teaspoon'
+      },
+      "instructions": "1. Fill cocktail shaker with ice.
+      2. Add gin, apple brandy, vermouth, and Chartreuse.
+      3. Shake.
+      4. Strain into a chilled martini glass.",
+      'image': '',
+      'description': 'Surely the preferred choice of famous Poles like Lech
+        Walesa and Count Pulaski.'
+    },
+    { "name": "Walsh Champagne Cocktail",
+      "ingredients": {
+        'sugar': '1 teaspoon',
+        'mint': '1 sprig',
+        'lemon twist': '1 twist',
+        'champagne': ''
+      },
+      "instructions": "1. Build sugar, mint sprig, and lemon twist in a
+      collins glass with ice.
+      2. Fill with champagne.
+      3. Float a cherry on top.",
+      'image': '',
+      'description': 'Mrs. Walsh never touches champagne. Unless she’s
+      thirsty.'
+    }
